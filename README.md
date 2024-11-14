@@ -20,4 +20,5 @@ Follow Best Practices: Use responsibly and ethically for research, learning, and
 For more information on laws applicable to network testing, visit:
 
 U.S. Department of Justice - Cybercrime Section https://www.justice.gov/criminal/criminal-ccips
+
 Legal Information Institute - CFAA Overview https://www.law.cornell.edu/uscode/text/18/1030
